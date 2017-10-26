@@ -21,13 +21,6 @@
           </td>
         </tr>
         <tr>
-          <td>5806021623065</td>
-          <td>สิริรัตน์ ปราชญ์พิริยะ</td>
-          <td>
-            <router-link to="/sirirat">car</router-link>
-            </td>
-            </tr>
-            <tr>
           <td>5806021633010</td>
           <td>ชลธิชา สูริผัส</td>
           <td>
@@ -80,7 +73,7 @@
           <td>5806021622051</td>
           <td>รชต ทองภักดี</td>
           <td>
-            <router-link to="/Rachata">Giphy Search</router-link>
+            <router-link to="/Rachata">Ip location</router-link>
           </td>
         </tr>
         <tr>
